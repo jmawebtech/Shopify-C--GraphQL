@@ -1,0 +1,12 @@
+﻿global using GraphQL;
+global using GraphQL.Client.Abstractions;
+global using Newtonsoft.Json;
+global using Newtonsoft.Json.Linq;
+global using ShopifyGraphQL.Enum;
+global using ShopifyGraphQL.Models;
+global using System.Globalization;
+global using System.Text.RegularExpressions;
+global using ShopifyGraphQL.Responses;
+global using System.Runtime.Serialization;
+global using ShopifyGraphQL.Queries;
+global using ShopifyGraphQL.Helper;
